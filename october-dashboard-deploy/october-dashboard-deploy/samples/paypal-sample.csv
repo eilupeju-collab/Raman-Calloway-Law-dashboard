@@ -1,0 +1,7 @@
+"Date","Time","TimeZone","Name","Type","Status","Currency","Gross","Fee","Net","From Email Address","Transaction ID"
+"11/04/2026","10:12:03","PST","Imani Fairweather","Payment Received","Completed","USD","1,500.00","-48.80","1,451.20","imani@example.com","SAMPLE0001"
+"11/05/2026","14:40:11","PST","Dmitri Ostrowski","Payment Received","Completed","USD","750.00","-22.05","727.95","dmitri@example.com","SAMPLE0002"
+"11/06/2026","09:05:44","PST","Sofia Quintero","Payment Received","Completed","USD","150.00","-4.65","145.35","sofia@example.com","SAMPLE0003"
+"11/07/2026","16:22:30","PST","Halden Family Trust","Payment Received","Pending","USD","3,000.00","-87.30","2,912.70","trust@example.com","SAMPLE0004"
+"11/08/2026","11:18:09","PST","Marcus Abernathy","Payment Received","Pending","USD","2,200.00","-64.10","2,135.90","marcus@example.com","SAMPLE0005"
+"11/08/2026","18:01:55","PST","PayPal","Bank Withdrawal","Completed","USD","-1,451.20","0.00","-1,451.20","","SAMPLE0006"
